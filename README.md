@@ -10,3 +10,6 @@ Here's a 嘉立创 homemade NFC card, which can be used for free at 嘉立创 fo
 嘉立创EDA下载链接https://lceda.cn/page/download
 
 Please find the download link for 嘉立创EDA at https://lceda.cn/page/download
+
+
+正在画新板子中……
